@@ -1,7 +1,11 @@
 # bing-searches
+
 This is a Chrome extension that makes automatic random searches on Bing. Great to achieve Microsoft Rewards Weekly Sets searches faster.
 
+![](demo.gif)
+
 ## How to use
+
 - Download or clone the source code;
 - Go to [Bing](https://www.bing.com) and log into your Microsoft Rewards account;
 - **If the Weekly Set requires searches to be made on mobile devices:**
